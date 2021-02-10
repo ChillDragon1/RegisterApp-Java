@@ -2,7 +2,9 @@ HELP.md
 .vscode/
 .settings/
 .mvn/
+.idea/
 mvnw
 mvnw.cmd
 target/
-
+registerapp.iml
+/src/main/resources/application.properties
